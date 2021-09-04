@@ -1,4 +1,6 @@
-class BubbleSort
+/**Changes made by Tejas**/
+    
+  class BubbleSort
 {
     void bubbleSort(int arr[])
     {
@@ -33,5 +35,8 @@ class BubbleSort
         ob.printArray(arr);
     }
 }
+<<<<<<< HEAD
 
 //This is new Comment
+=======
+>>>>>>> fe6648a3c124ac7997ff01e831238d0b43d10af8
